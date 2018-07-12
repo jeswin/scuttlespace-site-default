@@ -10,7 +10,7 @@
   },
   "license": "AGPL-1.0",
   "dependencies": {
-    "@types/node": "^10.5.2",
+    "@types/node": "^10.5.2"
   },
   "devDependencies": {
     "@types/mocha": "^5.2.4",
